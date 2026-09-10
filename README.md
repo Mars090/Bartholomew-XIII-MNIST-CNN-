@@ -87,7 +87,3 @@ Bartholomew implements a **Convolutional Neural Network (CNN)** from scratch (us
 
     Sidenote: I had to change all of the variable names really last minute so if you see any weird variable names just ignore pls :)
 
-## !!Screenshots!!
-![Loss vs Epoch Graph](<Loss vs Epoch graph.png>)
-![Accuracy vs Epoch Graph](<Accuracy vs Epoch graph.png>) << Click/Hover on image!!
-![Test Output](<Test Output.png>)
